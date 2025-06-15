@@ -1,0 +1,7 @@
+google-genai
+streamlit==1.22.0
+beautifulsoup4
+selenium
+Scrapy
+pandas
+json
