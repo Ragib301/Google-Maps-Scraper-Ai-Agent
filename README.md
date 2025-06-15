@@ -221,6 +221,7 @@ def enhance_data(scraped_data):
 Google-Maps-Scraper-Ai-Agent/
 ├── main.py                      # Main Streamlit GUI and control logic
 ├── requirements.txt             # Dependencies list
+├── bg.jpg                       # Streamlit Background Image
 ├── scraper.py                   # Scraper Code for scraping data from Google Maps
 ├── utils.py                     # Ai enhancement and other necessary fucntions
 ├── email_scraper/               # Scrapy project structure
